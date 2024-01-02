@@ -1,7 +1,5 @@
 # QuickSell_Assignment_Kanban_Board
 
-# QuickSell_Assignment_Kanban_Board
-
 ![Screenshot 2024-01-02 201033](https://github.com/jeevanmishra/QuickSell_Assignment_Kanban_Board/assets/123623554/e527923b-2ad6-4756-8393-3e3574f55398)
 
 Grouping - Priority
